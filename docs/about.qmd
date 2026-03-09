@@ -1,0 +1,30 @@
+---
+title: "About Me"
+sidebar: false 
+---
+
+# Education
+
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - 2026 (expected).
+
+# Work Experience
+
+Currently no full-time employment.
+
+## Internships
+
+1.  Renault Mais A.Ş., Aftersales Department Intern, Ankara, 2024.
+
+2.  ICRON Technologies, Platform Development Intern, Ankara, 2025.
+
+# Projects
+
+1.  Production Time Estimation for Custom Steel Pole Manufacturing, Mitaş Poligon Project, 2026.
+
+# Competencies
+
+R, Git, Quarto, Data Analysis, Operations Research, Optimization
+
+# Hobbies
+
+Team Sports, Chess

@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Necati Berkay Vural Analytics Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - href: posts.qmd
+        text: My Posts
+      - href: assignments.qmd
+        text: EMU430 Coursework
+
+format:
+  html:
+    toc: true
+
+editor: visual
